@@ -1,0 +1,4 @@
+pip install SQLAlchemy
+mysql-connector-python
+psycopg2-binary
+pyodbc
